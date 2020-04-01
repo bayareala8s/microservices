@@ -1,6 +1,14 @@
-# microservices
+# Microservices
+
+    
 
 Ratings: <br />
+    "ns" : "movielens.ratings", 
+    "size" : 1950007959.0, 
+    "count" : NumberInt(25000098), 
+    "avgObjSize" : NumberInt(78), 
+    "storageSize" : NumberInt(617680896)
+<br />
 curl -U admin:bayareala8s -X GET "http://localhost:8000/rating/objectid/5e72a5e1f49d9d13241babe1" -H "accept: */*" <br />
 curl -U admin:bayareala8s -X GET "http://localhost:8000/rating/userid/10" -H "accept: */*" <br />
 curl -U admin:bayareala8s -X POST "http://localhost:8000/rating" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"movieId\": 1, \"rating\": 5.0, \"timestamp\": 1227571313, \"userId\": 1}" <br />
