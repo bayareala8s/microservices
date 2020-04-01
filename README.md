@@ -16,5 +16,10 @@ curl -U admin:bayareala8s -X PUT "http://localhost:8000/rating/objectid/5e84ecb1
 curl -U admin:bayareala8s -X DELETE "http://localhost:8000/rating/objectid/5e84ecb136c299641b85a5f6" -H "accept: */*" <br />
 
 Movies: <br />
+    "ns" : "movielens.movies", <br />
+    "size" : NumberInt(6173860), <br />
+    "count" : NumberInt(62423), <br />
+    "avgObjSize" : NumberInt(98), <br />
+    "storageSize" : NumberInt(3047424), <br />
 curl -X GET "http://localhost:8000/movie/movieid/3" -H "accept: */*" <br />
 curl -X GET "http://localhost:8000/movie/objectid/5e83d8f6e6f04b7f4bf9174e" -H "accept: */*" <br />
