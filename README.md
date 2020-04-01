@@ -3,11 +3,11 @@
     
 
 Ratings: <br />
-    "ns" : "movielens.ratings", 
-    "size" : 1950007959.0, 
-    "count" : NumberInt(25000098), 
-    "avgObjSize" : NumberInt(78), 
-    "storageSize" : NumberInt(617680896)
+    "ns" : "movielens.ratings", <br />
+    "size" : 1950007959.0, <br />
+    "count" : NumberInt(25000098), <br />
+    "avgObjSize" : NumberInt(78), <br />
+    "storageSize" : NumberInt(617680896) <br />
 <br />
 curl -U admin:bayareala8s -X GET "http://localhost:8000/rating/objectid/5e72a5e1f49d9d13241babe1" -H "accept: */*" <br />
 curl -U admin:bayareala8s -X GET "http://localhost:8000/rating/userid/10" -H "accept: */*" <br />
