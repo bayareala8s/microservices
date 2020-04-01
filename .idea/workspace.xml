@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33607ad5-59af-46ec-bbac-1737361ad701" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZMK6sy06DUX17KJbywerAJhMbE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bayareala8s.movielens.App" />
+      <module name="microservices.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bayareala8s.movielens.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservices.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bayareala8s.movielens.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33607ad5-59af-46ec-bbac-1737361ad701" name="Default Changelist" comment="" />
+      <created>1584643350300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584643350300</updated>
+      <workItem from="1584643353733" duration="5427000" />
+      <workItem from="1584903806732" duration="1034000" />
+      <workItem from="1584904899136" duration="37000" />
+      <workItem from="1584906227667" duration="657000" />
+      <workItem from="1584924261148" duration="3488000" />
+      <workItem from="1584952584854" duration="592000" />
+      <workItem from="1585678309273" duration="4783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="54" key="#Project_Structure" timestamp="1584652043133">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="240" y="54" key="#Project_Structure/0.23.1280.737@0.23.1280.737" timestamp="1584652043133" />
+    <state x="453" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1585700504054">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="453" y="83" key="#com.intellij.ide.util.MemberChooser/0.23.1280.740@0.23.1280.740" timestamp="1585700504054" />
+    <state width="1216" height="7" key="GridCell.Tab.0.bottom" timestamp="1585701148520">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="1216" height="242" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1584925494142" />
+    <state width="1216" height="242" key="GridCell.Tab.0.bottom/0.23.1280.738@0.23.1280.738" timestamp="1584947942477" />
+    <state width="1216" height="318" key="GridCell.Tab.0.bottom/0.23.1280.739@0.23.1280.739" timestamp="1585689748996" />
+    <state width="1216" height="7" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1585701148520" />
+    <state width="1216" height="7" key="GridCell.Tab.0.center" timestamp="1585701148517">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="1216" height="242" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1584925494141" />
+    <state width="1216" height="242" key="GridCell.Tab.0.center/0.23.1280.738@0.23.1280.738" timestamp="1584947942476" />
+    <state width="1216" height="318" key="GridCell.Tab.0.center/0.23.1280.739@0.23.1280.739" timestamp="1585689748995" />
+    <state width="1216" height="7" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1585701148517" />
+    <state width="1216" height="7" key="GridCell.Tab.0.left" timestamp="1585701148516">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="1216" height="242" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1584925494141" />
+    <state width="1216" height="242" key="GridCell.Tab.0.left/0.23.1280.738@0.23.1280.738" timestamp="1584947942476" />
+    <state width="1216" height="318" key="GridCell.Tab.0.left/0.23.1280.739@0.23.1280.739" timestamp="1585689748994" />
+    <state width="1216" height="7" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1585701148516" />
+    <state width="1216" height="7" key="GridCell.Tab.0.right" timestamp="1585701148518">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state width="1216" height="242" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1584925494141" />
+    <state width="1216" height="242" key="GridCell.Tab.0.right/0.23.1280.738@0.23.1280.738" timestamp="1584947942477" />
+    <state width="1216" height="318" key="GridCell.Tab.0.right/0.23.1280.739@0.23.1280.739" timestamp="1585689748995" />
+    <state width="1216" height="7" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1585701148518" />
+  </component>
+</project>
