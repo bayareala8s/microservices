@@ -21,5 +21,5 @@ Movies: <br />
     "count" : NumberInt(62423), <br />
     "avgObjSize" : NumberInt(98), <br />
     "storageSize" : NumberInt(3047424), <br />
-curl -X GET "http://localhost:8000/movie/movieid/3" -H "accept: */*" <br />
-curl -X GET "http://localhost:8000/movie/objectid/5e83d8f6e6f04b7f4bf9174e" -H "accept: */*" <br />
+curl -U admin:bayareala8s -X GET "http://localhost:8000/movie/movieid/3" -H "accept: */*" <br />
+curl -U admin:bayareala8s -X GET "http://localhost:8000/movie/objectid/5e83d8f6e6f04b7f4bf9174e" -H "accept: */*" <br />
