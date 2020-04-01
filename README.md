@@ -21,5 +21,9 @@ Movies: <br />
     "count" : NumberInt(62423), <br />
     "avgObjSize" : NumberInt(98), <br />
     "storageSize" : NumberInt(3047424), <br />
-curl -U admin:bayareala8s -X GET "http://localhost:8000/movie/movieid/3" -H "accept: */*" <br />
 curl -U admin:bayareala8s -X GET "http://localhost:8000/movie/objectid/5e83d8f6e6f04b7f4bf9174e" -H "accept: */*" <br />
+curl -U admin:bayareala8s -X GET "http://localhost:8000/movie/movieid/3" -H "accept: */*" <br />
+curl -U admin:bayareala8s -X POST "http://localhost:8000/movie" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"genres\": \"Comedy|Drama|Romance\", \"movieId\": 1, \"title\": \"Titanic\"}"
+curl -U admin:bayareala8s -X PUT "http://localhost:8000/movie/objectid/5e8510bd36c2996ae718e2f5" -H "accept: */*" -H "Content-Type: application/json" -d "{ \"genres\": \"Comedy|Drama|Romance\", \"movieId\": 1, \"title\": \"Avatar\"}"
+curl -U admin:bayareala8s -X DELETE "http://localhost:8000/movie/objectid/5e8510bd36c2996ae718e2f5" -H "accept: */*"
+
